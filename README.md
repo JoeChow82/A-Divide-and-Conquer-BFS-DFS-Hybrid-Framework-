@@ -3,7 +3,7 @@
 A BFS-DFS hybrid search architecture that decouples conflict evaluation from search
 Precompute all pairwise conflicts once, store them in lookup tables, and reduce every conflict check during search to an O(1) table lookup for combinatorial optimization proplems.
 
-1.Supportong File:
+1.Supporting File:
   
     a.1JFF.pdb is the source data of Paclitaxel
   
